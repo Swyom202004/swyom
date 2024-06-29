@@ -1,0 +1,39 @@
+body{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image: url(_.jpeg);
+}
+h1{
+    font-style: italic;
+    color: antiquewhite;
+    font-size: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+p{
+    font-size: 20px;
+    color: antiquewhite;
+    background-image: url(_\ \(2\).jpeg);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+    width: auto;
+    font-weight: 100px;
+    font-style: italic;
+}
+.btn{
+    float: right;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgba(89, 214, 44, 0.949);
+    border-radius: 10px;
+
+}
