@@ -1,0 +1,72 @@
+body {
+    background-image: url(_.jpeg);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: aliceblue;
+    font-style: italic;
+    padding-left: 20px;
+    font-size: 3rem;
+}
+
+.pic {
+    display: flexbox;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.pic1 {
+    padding-bottom: 10px;
+    border-radius: 20px;
+    margin-right: 12px;
+
+}
+
+.pic2 {
+    padding-bottom: 10px;
+    border-radius: 20px;
+
+}
+
+.pic3 {
+    padding-bottom: 10px;
+    border-radius: 20px;
+    padding-right: 10px;
+
+}
+.pic4 {
+    padding-bottom: 10px;
+    border-radius: 20px;
+    padding-right: 10px;
+
+}
+
+.pic5 {
+    padding-bottom: 10px;
+    border-radius: 20px;
+    padding-right: 10px;
+
+}
+
+
+.pic6 {
+    padding-bottom: 10px;
+    border-radius: 20px;
+
+}
+
+.btn{
+    float: right;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgba(83, 219, 76, 0.912);
+    border-radius: 10px;
+
+}
